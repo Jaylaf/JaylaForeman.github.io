@@ -11,4 +11,4 @@ I have experience in excel, stata, python, and SQL.
 - Financial managment 
 
 ## Contact 
-You can reach me at [Linkedin](www.linkedin.com/in/jayla-foreman)
+You can reach me at [Linkedin](https://www.linkedin.com/in/jayla-foreman)
